@@ -78,6 +78,6 @@ alpha-restaurant-frontend/
 
 B.Tech – Electronics and Communication Engineering
 
-Aspiring Full Stack Java Developer
+Frontend Developer
 
 ---
